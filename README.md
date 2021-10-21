@@ -3,6 +3,8 @@
  To use this project on local, you need to lunch you local server (I use Xampp with Apache and MySQL data base). 
  In .env control line 26 you have the right information to connect the API with your MySQL database.
  
+ This API run only on local since we have a major bug unresolved. 
+ 
 ## Available Scripts
 
 In the project directory, you can run:
