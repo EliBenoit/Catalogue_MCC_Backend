@@ -14,7 +14,7 @@ After cloning the project, run this to install all dependencies.
 
 ## API acces
 
-To acces the API use your local adress and finish with `/api`. 
+To acces the API use your local adress and finish with `/public/api`. 
 You will have access to all the method. 
 
 ### `Error`
